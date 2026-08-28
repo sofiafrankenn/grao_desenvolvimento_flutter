@@ -3,9 +3,9 @@ Grão — Controle Financeiro para Estudantes
 "Grão a grão se faz a fortuna."
 
 👥 Integrantes do Grupo
-Nome	RM	Papel
-Ana Luiza Bertão	RM563171	UX/UI Design & Documentação
-Sofia Franken	RM562767	Desenvolvimento Flutter & Arquitetura
+Nome |	RM
+Ana Luiza Bertão |	RM563171
+Sofia Franken	| RM562767
 📱 O que é o Grão?
 
 O Grão é um aplicativo mobile de controle financeiro pensado especialmente para estudantes universitários. Ele permite registrar gastos, categorizar despesas, visualizar o histórico financeiro e entender para onde vai o dinheiro — de forma simples, visual e sem complicação.
@@ -39,7 +39,7 @@ Memorabilidade: Curto, fácil de pronunciar, único no mercado de apps financeir
 Tom: Amigável, brasileiro, sem jargão financeiro intimidador
 Tom de Voz
 
-O Grão fala como um amigo que entende de finanças — direto, encorajador e sem julgamento. Não usamos termos técnicos. Usamos linguagem positiva: "Você economizou R$ 50 esse mês! "
+O Grão fala como um amigo que entende de finanças — direto, encorajador e sem julgamento. Não usamos termos técnicos. Usamos linguagem positiva: "Você economizou R$ 50 esse mês!"
 
 Paleta de Cores
 Token	Hex	Uso
