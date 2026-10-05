@@ -1,11 +1,11 @@
 {
-    "name": "grao",
-    "short_name": "grao",
+    "name": "Grão — controle financeiro para estudantes",
+    "short_name": "Grão",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#7C3AED",
+    "theme_color": "#7C3AED",
+    "description": "Grão: controle financeiro simples e sem complicação para estudantes.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
